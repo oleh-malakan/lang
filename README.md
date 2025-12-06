@@ -1,1 +1,1 @@
-# lang
+# MULTIX Programming Language
